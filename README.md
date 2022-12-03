@@ -45,3 +45,6 @@ Link to [Project Fork to my GitHub]
 |Agile - Retrospective  |[Requirement](./Group_Project_Requirement/Agile_Retrospective.md)   |[Group GitHub] |-- |
 |CI/CD Pipeline - Phase 1   |[Requirement](./Group_Project_Requirement/CI_CD_Pipeline_Phase_1.md)   |[Group GitHub] |-- |
 |Agile - Sprint Review Meetings |[Requirement](./Group_Project_Requirement/Agile_Sprint_Review_Meetings.md)   |[Group GitHub] |-- |
+|Final Project Video - Public Version   |[Requirement](./Group_Project_Requirement/Final_Project_Video_Public_Version.md)   |[Group GitHub] |-- |
+|Documentation - Internal Documentation : ADR (Architectural Decision Records)  |[Requirement](./Group_Project_Requirement/Documentation_Internal_Documentation_ADR.md)   |[Group GitHub] |-- |
+|Final Project Video - Private Version  |[Requirement](./Group_Project_Requirement/Final_Project_Video_Private_Version.md)   |[Group GitHub] |-- |
