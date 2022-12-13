@@ -23,7 +23,7 @@ Introduction to software development and engineering methods, including specific
 |Lab Week 6 |Web Components and localStorage API|[Requirement](./Lab_Requirement/Lab_Week_6.md)|[GitHub](https://github.com/alina10050805/Lab6_Starter) |--  |3/3    |
 |Lab Week 7 |Fetch API & ServiceWorkers|[Requirement](./Lab_Requirement/Lab_Week_7.md)|[GitHub](https://github.com/alina10050805/Lab7_Starter) |--  |3/3    |
 |Lab Week 8 |Unit & E2E Testing|[Requirement](./Lab_Requirement/Lab_Week_8.md)|[GitHub](https://github.com/alina10050805/Lab8_Starter) |--  |3/3    |
-|Lab Week 9 |JavaScript Error Handling, Monitoring, & JS Docs|[Requirement](./Lab_Requirement/Lab_Week_9.md)|[GitHub](https://github.com/alina10050805/Lab9_Starter) |--  |--    |
+|Lab Week 9 |JavaScript Error Handling, Monitoring, & JS Docs|[Requirement](./Lab_Requirement/Lab_Week_9.md)|[GitHub](https://github.com/alina10050805/Lab9_Starter) |--  |3/3    |
 |Lab Week 10 |Post Launch Tooling: User Analytics and Feedback|[Requirement](./Lab_Requirement/Lab_Week_10.md)|[GitHub](https://github.com/alina10050805/Lab10_Starter) |--  |--    |
 
 ## Group Project
